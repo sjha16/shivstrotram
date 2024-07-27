@@ -1,0 +1,51 @@
+body {
+  background-color: #d0b9c9;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+h2 {
+  color: red;
+  margin: 20px 0;
+  font-size: 2em;
+}
+
+p {
+  color: red;
+  font-size: 1.2em;
+  line-height: 1.6;
+  margin: 10px 0;
+}
+
+strong {
+  display: block;
+  margin: 10px 0;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+}
+
+img {
+  width: 250px;
+  border: 5px solid red;
+  border-radius: 15px;
+  margin-bottom: 20px;
+}
+
+hr {
+  margin: 30px auto;
+  width: 50%;
+  border: 1px solid darkred;
+}
+
+footer {
+  margin-top: 30px;
+  font-size: 0.9em;
+  color: darkred;
+}
+
+.shloka {
+  display: none; /* Hide all shlokas initially */
+}
